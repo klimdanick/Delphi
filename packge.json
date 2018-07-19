@@ -1,0 +1,24 @@
+{
+  "name": "klimdanickbot",
+  "version": "1.0.0",
+  "description": "een bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "klimdanick",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
